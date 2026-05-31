@@ -15,11 +15,7 @@
 
 ## 🚀 Live Application
 
-🚧 Deployment In Progress
-
-The SepsisIntel AI platform is currently being prepared for cloud deployment via Streamlit Community Cloud.
-
-The live application link will be added upon successful deployment.
+[🔗 Launch SepsisIntel AI](https://sepsisintel-ai-ccjyevamxsnsy9slhtmdh6.streamlit.app/)
 
 ---
 
