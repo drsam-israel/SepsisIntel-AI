@@ -185,23 +185,21 @@ A secondary Governance XGBoost model was developed excluding ICU Length of Stay 
 ---
 
 # Platform Screenshots
-
 ## Executive Sepsis Surveillance Dashboard
 
-![Executive Sepsis Surveillance Dashboard](Screenshots/executive_sepsis_surveillance_dashboard.png)
+<img src="./assets/executive_sepsis_surveillance_dashboard.png" width="1000">
 
 ---
 
 ## Clinical Sepsis Prediction Engine
 
-![Clinical Sepsis Prediction Engine](Screenshots/clinical_sepsis_prediction_engine.png)
+<img src="./assets/clinical_sepsis_prediction_engine.png" width="1000">
 
 ---
 
 ## Explainable AI Intelligence Center
 
-![Explainable AI Intelligence Center](Screenshots/explainable_ai_intelligence_center.png)
-
+<img src="./assets/explainable_ai_intelligence_center.png" width="1000">
 ---
 
 ## Executive Insights
